@@ -1,0 +1,4 @@
+import DES
+KEY = "0E329232EA6D0D73"
+MSG = "8787878787878787"
+print(DES.main((KEY,MSG)))
